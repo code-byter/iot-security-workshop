@@ -1,6 +1,8 @@
 # IoT Device Security Workshop
 
-**Disclaimer:** This repository will be fully updated and finalized one week before the workshop. Please check back at that time for the complete materials and resources.
+VM with preinstalled tools: [Download](https://drive.google.com/file/d/1f8QppEx97DJPSMLHEhEW9wl12GjIM2M6/view?usp=sharing)
+
+Alternatively, install the tools mentioned in `installation.md` manually on your machine.
 
 ## Workshop Focus
 
@@ -53,4 +55,4 @@ To get started, follow these steps:
    git clone https://github.com/yourusername/iot-security-workshop.git
    ```
 
-2. Download and set up the VM or follow the instructions in the tools.md file (to be uploaded a week before the workshop).
+2. Download and set up the VM or follow the instructions in the installation.md file (to be updated shortly before the workshop).
