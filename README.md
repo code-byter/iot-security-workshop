@@ -1,6 +1,9 @@
 # IoT Device Security Workshop
 
 VM with preinstalled tools: [Download](https://drive.google.com/file/d/1f8QppEx97DJPSMLHEhEW9wl12GjIM2M6/view?usp=sharing)
+Password: `password`
+
+Router firmware: [Download](https://drive.google.com/file/d/1mNdzzikmlCawb2rTlALPzeK0GXJtX8XA/view?usp=sharing)
 
 Alternatively, install the tools mentioned in `installation.md` manually on your machine.
 
