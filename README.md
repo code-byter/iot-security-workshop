@@ -5,7 +5,7 @@ Password: `password`
 
 Router firmware: [Download](https://drive.google.com/file/d/1mNdzzikmlCawb2rTlALPzeK0GXJtX8XA/view?usp=sharing)
 
-Extracted Firmware [Download](https://drive.google.com/file/d/1UANx932CzOL9_Dt4rDLRtAqfsrQKFUCP/view?usp=sharing)
+Extracted Firmware [Download](https://drive.google.com/file/d/1Nn9NMO9pH8exSQCHjxocydrAz7w_78L4/view?usp=sharing)
 
 Alternatively, install the tools mentioned in `installation.md` manually on your machine.
 
