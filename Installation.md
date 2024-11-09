@@ -36,7 +36,7 @@ To ensure the Pico board can be accessed without `sudo` and to create a persiste
     SUBSYSTEM=="usb", ATTRS{idVendor}=="2e8a", ATTRS{idProduct}=="0003", MODE="0666"
 
     # Symlink an RP2040 running MicroPython from /dev/pico.
-    SUBSYSTEM=="tty", ATTRS{idVendor}=="2e8a", ATTRS{idProduct}=="0005", SYMLINK+="pico"
+    SUBSYSTEM=="tty", ATTRS{idVendor}=="2e8a", ATTRS{idProduct}=="0005", SYMLINK+="pico", MODE="0666"
     ```
 
 3. Reload the udev rules:
