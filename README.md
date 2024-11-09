@@ -4,7 +4,8 @@ VM with preinstalled tools: [Download](https://drive.google.com/file/d/1f8QppEx9
 Password: `password`
 
 Router firmware: [Download](https://drive.google.com/file/d/1mNdzzikmlCawb2rTlALPzeK0GXJtX8XA/view?usp=sharing)
-Extracted Firmware [Download](https://drive.google.com/file/d/1E1V8wqpK-Rt0e9omNxLqy7FYCxrRr7_s/view?usp=sharing)
+
+Extracted Firmware [Download](https://drive.google.com/file/d/1UANx932CzOL9_Dt4rDLRtAqfsrQKFUCP/view?usp=sharing)
 
 Alternatively, install the tools mentioned in `installation.md` manually on your machine.
 
